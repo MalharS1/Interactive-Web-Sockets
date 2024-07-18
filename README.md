@@ -2,7 +2,7 @@
 
 Video Link: https://drive.google.com/file/d/1YHUCqj68NtrM_szRzLLQspgXuXjxb5e0/view?usp=sharing
 
-## _Collaborators
+## _Collaborators_
 - **_Malhar Singh_**
 - **_Vedant Vaidya_**
 - **_Zareh Jamal-Sunderji_**
